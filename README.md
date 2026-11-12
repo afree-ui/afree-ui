@@ -1,16 +1,25 @@
-## Hi there 👋
+# Armand Byamha Ngadou
 
-<!--
-**afree-ui/afree-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Founder | AI & Digital Innovation | Responsible Technology
 
-Here are some ideas to get you started:
+Based in Glasgow, Scotland, I build platforms that turn knowledge and emerging technology into practical opportunities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am the founder of **KNUENCE** and **WOW Global Solutions Ltd**.
+
+## Projects I’m working on
+
+- **KNUENCE** — A knowledge-powered platform connecting learning, expertise and influence.
+- **AFREEGUARD AI** — Responsible AI tools focused on governance, guardrails and accountability.
+- **AFREE ACADEMY** — Digital education in AI, blockchain and entrepreneurship.
+- **AFREEGRI** — Agricultural intelligence supporting farming in Cameroon.
+- **AFREEPAY** — Community finance tools for savings groups and associations.
+
+## Areas of interest
+
+AI governance · Digital finance · Blockchain · Education · Agricultural technology
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/armandngadou/)
+
+Open to collaboration on practical technology with meaningful social and economic impact.
